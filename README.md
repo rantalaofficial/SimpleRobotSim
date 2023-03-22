@@ -1,5 +1,5 @@
 # SimpleRobotSim
-A simple python app that simulates a two hinge robot with forward and backward kinematics. Sim also has a box you can move around with the robot.
+A simple python app that simulates a two hinge robot with forward and inverse kinematics. Sim also has a box you can move around with the robot.
 
 - Robot controls: click the screen to generate trajectory
 - Robot speed: a slider on the top left
